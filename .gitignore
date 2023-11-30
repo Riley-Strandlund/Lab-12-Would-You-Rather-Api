@@ -1,1 +1,2 @@
 node_modules
+#This tells github which files/folders to ignore when syncing with github.
